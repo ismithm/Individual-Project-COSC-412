@@ -11,7 +11,7 @@ published: true
 post_date: 2020-11-23 08:23:52
 ---
 <h3>Help Others With</h3>		
-			<h1>A Wonderful Gift</h1>		
+			<h1>Their Cause Today</h1>		
 			<a href="#" role="button">
 						Learn More
 					</a>
