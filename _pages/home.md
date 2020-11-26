@@ -8,8 +8,8 @@ permalink: https://getfundsforall.com/
 published: true
 post_date: 2019-10-31 10:05:05
 ---
-<h1>Get Funds For All</h1>		
-			<h2>Join Hands And Be A Hero​</h2>		
+<h1>Go Get Funds For All</h1>		
+			<h2>Help Others With The Gift Of Giving</h2>		
 		<p>Participate in our animal-saving mission and help us continue creating a better tomorrow for our rescues.</p>		
 			<a href="#" role="button">
 						See All Campaigns
