@@ -36,4 +36,7 @@ post_date: 2020-04-13 11:18:54
 			</figure><figure class='gallery-item'>
 				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4d9d9662" data-elementor-lightbox-title="mountain-and-lake-at-sunset-135157.jpg" href='https://getfundsforall.com/wp-content/uploads/2020/04/mountain-and-lake-at-sunset-135157.jpg'><img width="768" height="512" src="https://getfundsforall.com/wp-content/uploads/2020/04/mountain-and-lake-at-sunset-135157-768x512.jpg" alt="" loading="lazy" srcset="https://getfundsforall.com/wp-content/uploads/2020/04/mountain-and-lake-at-sunset-135157-768x512.jpg 768w, https://getfundsforall.com/wp-content/uploads/2020/04/mountain-and-lake-at-sunset-135157-300x200.jpg 300w, https://getfundsforall.com/wp-content/uploads/2020/04/mountain-and-lake-at-sunset-135157-1024x682.jpg 1024w, https://getfundsforall.com/wp-content/uploads/2020/04/mountain-and-lake-at-sunset-135157.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
 			</figure>
-		<p>Help Others With Their Cause With the Gift Of Giving</p>
+		<p>Help Others With Their Cause With the Gift Of Giving</p>		
+			<a href="#" role="button">
+						Start A Campaign
+					</a>
