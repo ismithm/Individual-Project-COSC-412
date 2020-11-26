@@ -15,8 +15,6 @@ post_date: 2020-11-23 08:23:52
 			<a href="#" role="button">
 						Learn More
 					</a>
-										<img width="200" height="154" src="https://getfundsforall.com/wp-content/uploads/2020/11/quote-1.png" alt="" loading="lazy" />											
-		<p>"Fuerat aestu carentem habentia spectent tonitrua mutastis locavit liberioris."</p><p>- Adam Sendler</p>		
 			<h2>Upcoming Events</h2>		
 										<img width="644" height="402" src="https://getfundsforall.com/wp-content/uploads/2020/11/hiking-v1.jpg" alt="" loading="lazy" srcset="https://getfundsforall.com/wp-content/uploads/2020/11/hiking-v1.jpg 644w, https://getfundsforall.com/wp-content/uploads/2020/11/hiking-v1-300x187.jpg 300w" sizes="(max-width: 644px) 100vw, 644px" />											
 			<h5>Everest Camp Trek</h5><p>Fuerat aestu carentem habentia spectent tonitrua mutastis locavit liberioris inistra possedit.</p>		
