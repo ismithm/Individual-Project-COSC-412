@@ -10,12 +10,6 @@ post_date: 2020-04-13 11:18:54
 ---
 <h1>Get Funds For All</h1>		
 		<p>Help Others Today With The Gift Of Giving</p>		
-			<a href="#" role="button">
-						Services
-					</a>
-			<a href="#" role="button">
-						About Us
-					</a>
 			<h2><a href="/services/#service-1">Service 1</a></h2>		
 			<h2><a href="/services/#service-2">Service 2</a></h2>		
 			<h2><a href="/services/#service-3">Service 3</a></h2>		
