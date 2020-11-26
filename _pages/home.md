@@ -8,8 +8,7 @@ permalink: https://getfundsforall.com/
 published: true
 post_date: 2020-04-13 11:18:54
 ---
-<h2>Multi-purpose Template</h2>		
-			<h1>Get Funds For All</h1>		
+<h1>Get Funds For All</h1>		
 		<p>Help Others Today With The Gift Of Giving</p>		
 			<a href="#" role="button">
 						Services
