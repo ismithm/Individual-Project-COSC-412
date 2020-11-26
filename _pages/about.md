@@ -1,6 +1,6 @@
 ---
 ID: 472
-post_title: About
+post_title: Our Mission
 author: smithibana.m@gmail.com
 post_excerpt: ""
 layout: page
