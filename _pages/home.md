@@ -9,7 +9,7 @@ published: true
 post_date: 2020-04-13 11:18:54
 ---
 <h1>Get Funds For all</h1>		
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+		<p>Help Others For Their Cause Today With The Gift Of Giving</p>		
 			<a href="#" role="button">
 						Services
 					</a>
