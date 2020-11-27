@@ -1,18 +1,16 @@
 Administrative Users:
-1.Having the ability of banning authenticated users that violate the policies of the website 
-2.Being able to look at content of authenticated users 
-3.Issue messages to authenticated users if method of money does not go through 
+Having the ability of banning authenticated users that violate the policies of the website 
+Being able to look at content of authenticated users 
+Issue messages to authenticated users if method of money does not go through 
 
 Authenticated Users:
-1. Successful In Logging in and out
-2.Being able to add photos and videos
-3.Have the capability of modifying their story
-4. Have the ability of setting their monetary goal 
-5.Being able to activate and deactivate their funding page 
-6.Share a link to allow unauthenticated users to view or  donate to page 
+ Successful In Logging in and out
+Have the capability of modifying their story
+Have the ability of setting their monetary goal 
+Sending Payment to a cause created 
+6Share a link to allow unauthenticated users to view or  donate to page 
 
 Unauthenticated Users:
-1.Being able to register on the website
-2.View authenticated users story/ monetary goals 
-3.View the policies of the site and requirements needed to register 
+Being able to register on the website
+View authenticated users story/ monetary goals 
 
