@@ -7,7 +7,7 @@ layout: page
 permalink: >
   https://getfundsforall.com/individual-campaigns/
 published: true
-post_date: 2020-11-27 04:26:54
+post_date: 2020-11-27 04:20:38
 ---
 <h1>Individual Campaigns</h1>		
 		<p>No matter where you are you can raise funds for a cause you a passionate about today</p><p>Donate Today</p>		
