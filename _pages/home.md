@@ -16,4 +16,9 @@ post_date: 2020-04-13 11:18:54
 						Start A Campaign 
 					</a>
 										<img width="768" height="512" src="https://getfundsforall.com/wp-content/uploads/2020/11/water-play-kids-863053-768x512.jpg" alt="water, play, kids" loading="lazy" srcset="https://getfundsforall.com/wp-content/uploads/2020/11/water-play-kids-863053-768x512.jpg 768w, https://getfundsforall.com/wp-content/uploads/2020/11/water-play-kids-863053-300x200.jpg 300w, https://getfundsforall.com/wp-content/uploads/2020/11/water-play-kids-863053-1024x682.jpg 1024w, https://getfundsforall.com/wp-content/uploads/2020/11/water-play-kids-863053.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />											
-										<img src="https://getfundsforall.com/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />
+										<img width="768" height="512" src="https://getfundsforall.com/wp-content/uploads/2020/11/poor-slums-india-2754335-768x512.jpg" alt="poor, slums, india" loading="lazy" srcset="https://getfundsforall.com/wp-content/uploads/2020/11/poor-slums-india-2754335-768x512.jpg 768w, https://getfundsforall.com/wp-content/uploads/2020/11/poor-slums-india-2754335-300x200.jpg 300w, https://getfundsforall.com/wp-content/uploads/2020/11/poor-slums-india-2754335-1024x682.jpg 1024w, https://getfundsforall.com/wp-content/uploads/2020/11/poor-slums-india-2754335.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />											
+			<h2>give the gift of giving today<br></h2>		
+		<p>Choose A Campaign. Donate. Watch how your gift helps others.</p>		
+			<a href="#" role="button">
+						Donate Today
+					</a>
