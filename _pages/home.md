@@ -9,7 +9,7 @@ published: true
 post_date: 2020-04-13 11:18:54
 ---
 <h2>Fundraising for people in need and causes you are passionate about</h2>		
-			<a role="button">
+			<a href="/register" role="button">
 						Start A Campaign 
 					</a>
 										<img src="https://getfundsforall.com/wp-content/uploads/elementor/thumbs/family-together-parents-838239-oz5cq3442iyp2u2qpd3fr4l8zkythfkpsmozvawpiw.jpg" title="family, together, parents-838239" alt="family, together, parents" />											
