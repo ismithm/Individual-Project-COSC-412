@@ -8,10 +8,7 @@ permalink: https://getfundsforall.com/
 published: true
 post_date: 2020-04-13 11:18:54
 ---
-<a href="#" role="button">
-						Click here
-					</a>
-			<h2>Fundraising for people in need and causes you are passionate about</h2>		
+<h2>Fundraising for people in need and causes you are passionate about</h2>		
 			<a href="/register" role="button">
 						Start A Campaign 
 					</a>
