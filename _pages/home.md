@@ -8,4 +8,4 @@ permalink: https://getfundsforall.com/
 published: true
 post_date: 2020-04-13 11:18:54
 ---
-<h1>Help Others Today With the Gift of Giving</h1>
+<h1>Go Get Funds For All</h1>
