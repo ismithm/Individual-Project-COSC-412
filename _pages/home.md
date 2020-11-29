@@ -16,6 +16,6 @@ post_date: 2020-04-13 11:18:54
 										<img src="https://getfundsforall.com/wp-content/uploads/elementor/thumbs/family-together-parents-838239-oz5cq3442iyp2u2qpd3fr4l8zkythfkpsmozvawpiw.jpg" title="family, together, parents-838239" alt="family, together, parents" />											
 			<h2>Give the gift of giving</h2>		
 		<p>Choose A Campaign. Donate. Watch How Your Gift Makes An Impact</p>		
-			<a href="/register" role="button">
-						Start A Campaign 
+			<a role="button">
+						Donate To A Campaign
 					</a>
