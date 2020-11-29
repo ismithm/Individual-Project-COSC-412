@@ -1,6 +1,6 @@
 ---
 ID: 1181
-post_title: Individual campaigns
+post_title: campaigns
 author: smithibana.m@gmail.com
 post_excerpt: ""
 layout: page
