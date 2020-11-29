@@ -8,9 +8,7 @@ permalink: https://getfundsforall.com/
 published: true
 post_date: 2020-04-13 11:18:54
 ---
-<h1>Create Your Website</h1>		
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
-			<h2>Fundraising for people in need and causes you are passionate about</h2>		
+<h2>Fundraising for people in need and causes you are passionate about</h2>		
 			<a role="button">
 						Start A Campaign 
 					</a>
