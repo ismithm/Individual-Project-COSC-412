@@ -10,7 +10,7 @@ post_date: 2020-04-13 11:18:54
 ---
 <h2>Multi-purpose Template</h2>		
 			<h1>Create Your Website</h1>		
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p>Helping Others Raise Funds or Help A Cause You Are Passionate About </p>		
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p><strong>Helping Others Raise Funds or Help A Cause You Are Passionate About </strong></p>		
 			<a href="#" role="button">
 						Start A Campaign 
 					</a>
