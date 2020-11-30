@@ -14,9 +14,13 @@ Foreign Currency Exchange
 - Many of the methods to display foreign currency within the site which can be either something based on the plugin itself but there are payments involved if there is a way to use strip
 
 Being Able to Have User Login
-- The user can login but the issue is they cannot make their own campaign there would have to be alternatives created to see if users can register and upload their own campaign
+- The user can login but the issue is they cannot make their own campaign right away unless I, the administrator can approve their campaign.There would have to be alternatives created to see if users can register and upload their own campaign
 - The authenicated user is not able to choose the type of currency they want for their campaign and some banks do charge hefty charges
 - In order to utilize the user login I would have to create a new category within the menu in order to give the user access or attempt to combine a new plugin known as the
 Ultimate User Plugin.
 -Letting User have a Capability of Creating their own campaign and choosing what currency they want to fund for which can be changed based on admin rights and by lookign at similar
-crowdfunding plugins or even looking at premiums if it was affordable.
+crowdfunding plugins or even looking at premiums if it was affordable
+
+Missing Pieces in Campaign 
+- The Following image on the site is missing and I can't disable the video setting on the fundraising site you would have to attach a video no matter what the options 
+I am going to use a different plugin since no matter what I do I can't even disable the video unless I can request the users to add a video or see if a private video can be added
