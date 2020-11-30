@@ -1,0 +1,7 @@
+Missing Object 
+-Banking 
+( Try to implement a new plugin that allows funds to be sent to banks since Stripe Premium costs  money but it has no student discount)
+( Try to figure out whether or not paypal can send to foreign banks)
+
+-Captcha 
+(Costs money if we are using a google API try to 
