@@ -6,5 +6,5 @@ post_excerpt: ""
 layout: page
 permalink: https://getfundsforall.com/campaigns/
 published: true
-post_date: 2020-11-30 01:07:30
+post_date: 2020-11-30 01:06:04
 ---
