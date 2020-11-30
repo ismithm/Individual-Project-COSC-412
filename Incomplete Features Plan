@@ -1,7 +1,20 @@
-Missing Object 
--Banking 
-( Try to implement a new plugin that allows funds to be sent to banks since Stripe Premium costs  money but it has no student discount)
-( Try to figure out whether or not paypal can send to foreign banks)
+Missing Features in Project 
 
--Captcha 
-(Costs money if we are using a google API try to 
+Banking
+- Try to look for a free plugin and accept foreign currency
+- In order for it to be implmented research into depth which banks acccept foreign users and are willing to work on finding a way to ensure the payments are secure
+- Alternatives are to see if banks on the users end of the account can be added rather than paypal since paypal does charge fees 
+
+Captcha 
+- Plugin for captcha requrires a high amount of money outside the budget the potential options are either creating my own version of a captcha or finding a way to neogitate with google
+to allow me to have a student discount. I have tried to google the API for the following site but there are issues in terms of whether this can be added with the following Wordpress
+Plugin known as WP Crowdfunding
+
+Foreign Currency Exchange
+- Many of the methods to display foreign currency within the site which can be either something based on the plugin itself but there are payments involved if there is a way to use strip
+
+Being Able to Have User Login
+- The user can login but the issue is they cannot make their own campaign there would have to be alternatives created to see if users can register and upload their own campaign
+- The authenicated user is not able to choose the type of currency they want for their campaign and some banks do charge hefty charges
+- In order to utilize the user login I would have to create a new category within the menu in order to give the user access or attempt to combine a new plugin known as the
+Ultimate User Plugin.
