@@ -10,4 +10,30 @@ Authenicated User
 4. Able to Share Link to Non Authenicated User 
 5. The Link is able to go to authenicated users site 
 
+User Login:
+Successful in allowing user to log into account and create a new campaign
+Goals Can be established in terms of amount of money
+Able To Attach Photos From User on Phone, Tablet and Laptop
+Ability to 
+
+Failure:
+Stripe Plugin would not work with WOOCommerce Plugin
+-results inconclusive
+Sandbox Paypal Not Connecting to System
+User cannot start campaign without GodMode( RJ Pisciotta Nickname for Admin Privelages
+Foreign Currency would not work with WOOCommerce unless Stripe is connected
+
+Unauthenicated User:
+Able to View Campaigs without account
+Play Videos and view photos
+Create their own login page 
+
+Failure:
+Issues with sandbox connection to Paypal
+No Email is sent to user to confirm registration
+Website Fails to lead unauthenicated user to donation page properly
+
+Missing Supplies: not being able to connect to foreign banks
+Alternatives: Student Discount stripe,
+
 
